@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\97766\\source\\repos\\NetManTrigger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{566F8EB3-843C-41B0-8C2E-56D8E6CD2AC5}|wlanapi\\wlanapi.vcxproj|C:\\Users\\97766\\source\\repos\\NetManTrigger\\wlanapi\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{566F8EB3-843C-41B0-8C2E-56D8E6CD2AC5}|wlanapi\\wlanapi.vcxproj|solutionrelative:wlanapi\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA7325-1E67-4637-9273-D1222AD5F4FF}|NetManTrigger\\NetManTrigger.vcxproj|C:\\Users\\97766\\source\\repos\\NetManTrigger\\NetManTrigger\\NetManTrigger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80BA7325-1E67-4637-9273-D1222AD5F4FF}|NetManTrigger\\NetManTrigger.vcxproj|solutionrelative:NetManTrigger\\NetManTrigger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\97766\\source\\repos\\NetManTrigger\\wlanapi\\dllmain.cpp",
+              "RelativeDocumentMoniker": "wlanapi\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\97766\\source\\repos\\NetManTrigger\\wlanapi\\dllmain.cpp",
+              "RelativeToolTip": "wlanapi\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T07:03:07.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetManTrigger.cpp",
+              "DocumentMoniker": "C:\\Users\\97766\\source\\repos\\NetManTrigger\\NetManTrigger\\NetManTrigger.cpp",
+              "RelativeDocumentMoniker": "NetManTrigger\\NetManTrigger.cpp",
+              "ToolTip": "C:\\Users\\97766\\source\\repos\\NetManTrigger\\NetManTrigger\\NetManTrigger.cpp",
+              "RelativeToolTip": "NetManTrigger\\NetManTrigger.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T06:46:28.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
